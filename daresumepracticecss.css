@@ -1,0 +1,23 @@
+p{text-align:left;
+	font-size:12px;
+font-family:bodoni;}
+h1{font-size:45px;
+text-transform:capitalize;
+text-align:center;
+font-family:helvetica;
+font-weight:bolder;
+text-decoration-color:blue;}
+.address{text-align:left;
+text-decoration-color:magenta;
+font-size:20px;
+font-style:italic;
+font-family:script;}
+h2{font-size:35px;
+text-align:left;
+font-family:helvetica;
+font-weight:bold;}
+h3{font-size:20px;
+font-family:helvetica;
+font-weight:bold;}
+.dates{font-style:italic;
+text-decoration-color:gray;}
