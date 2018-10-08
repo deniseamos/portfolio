@@ -1,18 +1,22 @@
-body
-p{text-align:left;
-	font-size:12px;
-font-family:bodoni;}
-h1{font-size:45px;
+body {
+	background-color: eggshell;
+}
+h1 {
+	font-size:45px;
 text-transform:capitalize;
 text-align:center;
 font-family:helvetica;
 font-weight:bolder;
-text-decoration-color:blue;}
+color:darkblue;
+}
 .address{text-align:left;
 text-decoration-color:magenta;
 font-size:20px;
 font-style:italic;
 font-family:script;}
+p{text-align:left;
+	font-size:12px;
+font-family:bodoni;}
 h2{font-size:35px;
 text-align:left;
 font-family:helvetica;

@@ -7,9 +7,9 @@ text-transform:capitalize;
 text-align:center;
 font-family:helvetica;
 font-weight:bolder;
-text-decoration-color:blue;}
+color:darkblue;}
 .address{text-align:left;
-text-decoration-color:magenta;
+color:red;
 font-size:20px;
 font-style:italic;
 font-family:script;}
@@ -19,6 +19,7 @@ font-family:helvetica;
 font-weight:bold;}
 h3{font-size:20px;
 font-family:helvetica;
-font-weight:bold;}
+font-weight:bold;
+color:blue;}
 .dates{font-style:italic;
 text-decoration-color:gray;}
